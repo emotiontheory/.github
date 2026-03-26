@@ -1,35 +1,39 @@
 # 👋 Welcome to Emotion Theory
 
-**Emotion Theory** is a creative and technology-driven organization exploring the intersection of human emotion, design, and digital experience.
+Hi, I'm **Adam Thompson** — and Emotion Theory is my creative space.
+
+I value **beautiful, meaningful, playful** creations and like to explore such qualities in my work.
+
+📍 Based in Auckland, New Zealand.
 
 ---
 
-## 🌟 What We Do
+## 🎮 Game Development
 
-We build tools, experiences, and open-source projects that bridge the gap between emotion and technology — from expressive interfaces to data-driven insights into how people feel and connect.
+I value beautiful, meaningful, playful creations and like to explore such qualities in my work.
 
----
-
-## 🚀 Our Projects
-
-Stay tuned as we release and open-source more of our work. Check out our [repositories](https://github.com/orgs/emotiontheory/repositories) to see what we're building.
+Work history spans: MMOs, RPGs, Adventure games, Puzzle games, Training & Simulation.
 
 ---
 
-## 🤝 Contributing
+## 🌱 Self Development
 
-We welcome contributions from the community! If you're interested in collaborating, please:
-
-1. Browse our open issues and pull requests
-2. Read any `CONTRIBUTING.md` guidelines in the relevant repository
-3. Open a discussion or reach out before starting large changes
+I value purposeful, mindful, balanced living and like to explore ways we can become the best versions of ourselves.
 
 ---
 
-## 📬 Get in Touch
-
-Have questions, ideas, or just want to say hi? Feel free to open an issue or start a discussion in any of our repositories.
+> *To all the mindful souls out there — join me on this journey as I chronicle and share my discoveries.*
 
 ---
 
-*Made with ❤️ by the Emotion Theory team*
+## 🔗 Find Me Online
+
+- 🌐 [emotiontheory.com](https://emotiontheory.com)
+- 🎮 [emotiontheory.itch.io](https://emotiontheory.itch.io)
+- 📱 All major social media platforms: **@emotiontheory**
+
+---
+
+## 🚀 Projects
+
+Check out our [repositories](https://github.com/orgs/emotiontheory/repositories) to see what we're building.
