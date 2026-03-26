@@ -30,4 +30,8 @@ I value purposeful, mindful, balanced living and like to explore ways we can bec
 
 - 🌐 [emotiontheory.com](https://emotiontheory.com)
 - 🎮 [emotiontheory.itch.io](https://emotiontheory.itch.io)
-- 📱 All major social media platforms: **@emotiontheory**
+- 📘 [Facebook](https://www.facebook.com/emotiontheory)
+- 🐦 [X / Twitter](https://x.com/emotiontheory)
+- ▶️ [YouTube](https://www.youtube.com/@emotiontheory)
+- 🎵 [TikTok](https://www.tiktok.com/@emotiontheory)
+- 📸 [Instagram](https://www.instagram.com/emotiontheory)
